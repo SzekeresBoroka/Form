@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Questionaire</string>
+    <string name="rb_female_text">Female</string>
+    <string name="rb_male_text">Male</string>
+    <string name="tv_gender_text">Gender:</string>
+    <string name="btn_send_text">Send</string>
+    <string name="btn_skip_text">Skip</string>
+    <string name="tv_header_text">Questionaire</string>
+    <string name="add_button_text">+</string>
+    <string name="tv_listforms_title_text">Forms sent in</string>
+    <string name="btn_back_text">Back</string>
+    <string name="year_of_study_text">Year of study:</string>
+    <string name="rb_first_year_text">I.</string>
+    <string name="rb_second_year_text">II.</string>
+    <string name="rb_third_year_text">III.</string>
+    <string name="rb_fourth_year_text">IV.</string>
+    <string name="tv_hobbies_text">Hobbies:</string>
+    <string name="chB_reading_text">Reading</string>
+    <string name="chB_movies_text">Movies</string>
+    <string name="chB_sport_text">Sport</string>
+    <string name="chB_pets_text">Pets</string>
+    <string name="chB_travel_text">Travel</string>
+    <string name="btn_add_image_text">Select Image</string>
+    <string name="image_text">Selected image</string>
+</resources>

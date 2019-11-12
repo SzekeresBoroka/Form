@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382575634925",
+    "firebase_url": "https://questionaire-26782.firebaseio.com",
+    "project_id": "questionaire-26782",
+    "storage_bucket": "questionaire-26782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382575634925:android:7dc258c06c79cbeb199fe4",
+        "android_client_info": {
+          "package_name": "com.example.questionaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382575634925-qgf0pnekb2mo21df67bambhiiopbi83h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.questionaire",
+            "certificate_hash": "0d92ae93ac2be261f5a862b49527e0b9d878c450"
+          }
+        },
+        {
+          "client_id": "382575634925-rtme7shrg5038bnduennjv19fqb9m3hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDI1L-TRrE-cFQTvc3sLMYs-NffxaI9ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382575634925-rtme7shrg5038bnduennjv19fqb9m3hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
